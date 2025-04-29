@@ -10,9 +10,9 @@ passages from which the system is expected to answer the fill-in the-blank quest
 
 # HOW TO RUN:
 
-1. Please check Requirements.txt file to see additional packages that need to be installed.
+1. Simply execute the Text_Summarization.ipynb file in the Code folder.
 
-2. Simply execute the BART_Transformer.py file in the Code folder.
+2. Run the explainability.html file using live server to visualize results.
 
 
 NOTE: The process takes around 8-9 hours to complete for 5 epochs.
